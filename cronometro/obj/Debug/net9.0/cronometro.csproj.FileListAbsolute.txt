@@ -1,0 +1,14 @@
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\bin\Debug\net9.0\cronometro.exe
+C:\Users\anderson_003070\Workspace\curso 1\cronometro\bin\Debug\net9.0\cronometro.deps.json
+C:\Users\anderson_003070\Workspace\curso 1\cronometro\bin\Debug\net9.0\cronometro.runtimeconfig.json
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\bin\Debug\net9.0\cronometro.dll
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\bin\Debug\net9.0\cronometro.pdb
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\cronometro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\cronometro.AssemblyInfoInputs.cache
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\cronometro.AssemblyInfo.cs
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\cronometro.csproj.CoreCompileInputs.cache
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\cronometro.dll
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\refint\cronometro.dll
+c:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\cronometro.pdb
+C:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\cronometro.genruntimeconfig.cache
+C:\Users\anderson_003070\Workspace\curso 1\cronometro\obj\Debug\net9.0\ref\cronometro.dll
