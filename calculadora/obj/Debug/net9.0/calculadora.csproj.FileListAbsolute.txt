@@ -1,0 +1,14 @@
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\calculadora.AssemblyInfoInputs.cache
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\calculadora.AssemblyInfo.cs
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\calculadora.csproj.CoreCompileInputs.cache
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\bin\Debug\net9.0\calculadora.exe
+C:\Users\anderson_003070\Workspace\curso 1\calculadora\bin\Debug\net9.0\calculadora.deps.json
+C:\Users\anderson_003070\Workspace\curso 1\calculadora\bin\Debug\net9.0\calculadora.runtimeconfig.json
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\bin\Debug\net9.0\calculadora.dll
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\bin\Debug\net9.0\calculadora.pdb
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\calculadora.dll
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\refint\calculadora.dll
+c:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\calculadora.pdb
+C:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\calculadora.genruntimeconfig.cache
+C:\Users\anderson_003070\Workspace\curso 1\calculadora\obj\Debug\net9.0\ref\calculadora.dll
