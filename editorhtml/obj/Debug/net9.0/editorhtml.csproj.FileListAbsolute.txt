@@ -1,0 +1,14 @@
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\bin\Debug\net9.0\editorhtml.exe
+C:\Users\anderson_003070\Workspace\curso 1\editorhtml\bin\Debug\net9.0\editorhtml.deps.json
+C:\Users\anderson_003070\Workspace\curso 1\editorhtml\bin\Debug\net9.0\editorhtml.runtimeconfig.json
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\bin\Debug\net9.0\editorhtml.dll
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\bin\Debug\net9.0\editorhtml.pdb
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\editorhtml.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\editorhtml.AssemblyInfoInputs.cache
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\editorhtml.AssemblyInfo.cs
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\editorhtml.csproj.CoreCompileInputs.cache
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\editorhtml.dll
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\refint\editorhtml.dll
+c:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\editorhtml.pdb
+C:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\editorhtml.genruntimeconfig.cache
+C:\Users\anderson_003070\Workspace\curso 1\editorhtml\obj\Debug\net9.0\ref\editorhtml.dll
