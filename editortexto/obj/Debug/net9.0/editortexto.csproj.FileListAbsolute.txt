@@ -1,0 +1,14 @@
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\bin\Debug\net9.0\editortexto.exe
+C:\Users\anderson_003070\Workspace\curso 1\editortexto\bin\Debug\net9.0\editortexto.deps.json
+C:\Users\anderson_003070\Workspace\curso 1\editortexto\bin\Debug\net9.0\editortexto.runtimeconfig.json
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\bin\Debug\net9.0\editortexto.dll
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\bin\Debug\net9.0\editortexto.pdb
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\editortexto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\editortexto.AssemblyInfoInputs.cache
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\editortexto.AssemblyInfo.cs
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\editortexto.csproj.CoreCompileInputs.cache
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\editortexto.dll
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\refint\editortexto.dll
+c:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\editortexto.pdb
+C:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\editortexto.genruntimeconfig.cache
+C:\Users\anderson_003070\Workspace\curso 1\editortexto\obj\Debug\net9.0\ref\editortexto.dll
